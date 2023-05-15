@@ -1,6 +1,16 @@
 # OpenCV-Game
 Game with OpenCV Programming
 
+## Introduction
+
+OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being an Apache 2 licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
+
+### Visit for more information- https://opencv.org/about/
+
+
+
+
+
 ![Screenshot (577)](https://user-images.githubusercontent.com/90152799/234958850-317adeb4-3014-4c1b-b952-9997469dc89e.png)
 
 
