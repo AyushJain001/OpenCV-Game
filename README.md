@@ -34,3 +34,6 @@ Here are some key points about OpenCV:
 
 
 ![WhatsApp Image 2023-04-30 at 1 57 57 PM](https://user-images.githubusercontent.com/90152799/235506213-3a09986d-8817-4145-9080-3b13da9486c7.jpeg)
+
+
+Want to contribute to this, Just folk the repo and start your contribution
